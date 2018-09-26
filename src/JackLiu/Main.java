@@ -62,6 +62,6 @@ public class Main {
         else{
             System.out.println("That is not a valid choice!, please choose again " + name);
         }
-        System.out.println("The game ended in " + guesses + " amount of guesses");
+        System.out.println("The game ended in " + guesses + " amount of guesses!");
     }
 }
